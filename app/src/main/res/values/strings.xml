@@ -1,0 +1,36 @@
+<resources>
+    <!--Nome do aplicativo-->
+    <string name="app_name">MPAlunos</string>
+
+    <!--Strings para os itens de menu-->
+    <string name="novo">Novo</string>
+    <string name="mapa">Mapa</string>
+    <string name="mais_opcoes">Mais opções</string>
+    <string name="sincronizar">Sincronizar</string>
+    <string name="provas">Provas</string>
+    <string name="preferencias">Preferências</string>
+
+    <!--Strings de menu de contexto-->
+    <string name="ligar">Ligar</string>
+    <string name="enviarSMS">Enviar SMS</string>
+    <string name="acharNoMapa">Achar no Mapa</string>
+    <string name="navegarSite">Navegar no Site</string>
+    <string name="enviarEmail">Enviar E-mail</string>
+    <string name="deletar">Deletar</string>
+
+    <!--Demais Strings-->
+    <string name="nome_aluno">Nome do aluno</string>
+    <string name="add_aluno">Adicionar aluno</string>
+    <string name="foto_aluno">Foto do aluno</string>
+    <string name="telefone">Telefone</string>
+    <string name="telefone_hint">Informe o telefone</string>
+    <string name="nome">Nome</string>
+    <string name="site">Site</string>
+    <string name="site_hint">Informe o site</string>
+    <string name="email">Email</string>
+    <string name="email_hint">Informe o email</string>
+    <string name="endereco">Endereço</string>
+    <string name="endereco_hint">Informe o endereço</string>
+    <string name="nota">Nota</string>
+    <string name="salvar_dados">Salvar</string>
+</resources>
